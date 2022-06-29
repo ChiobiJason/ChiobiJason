@@ -9,8 +9,8 @@ I am a very big lover of tech I recently began my coding journey as a web develo
 * 🖥️  See my portfolio at [MyPortfolio](http://chiobijason.github.io/Personal-Site/)
 * ✉️  You can contact me at [chiobichisom@gmail.com](mailto:chiobichisom@gmail.com)
 * 🚀  I'm currently working on [MFM Ghana Teenage Website](http://chiobijason.github.io/Mfm-Gh-Teens/)
-* 🧠  I'm learning some Back-end technologies i.e Node.js & Express.js
-* 🤝  I'm open to collaborating on Interesting Projects with you
+* 🧠  I'm learning React🥶
+* 🤝  I'm open to collaborating on Interesting Projects with you
 * ⚡  I'm always happy to help with anything just contact me
 
 ### Skills
