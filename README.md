@@ -13,6 +13,9 @@ I am a very big lover of tech I recently began my coding journey as a web develo
 * 🤝  I'm open to collaborating on Interesting Projects with you
 * ⚡  I'm always happy to help with anything just contact me
 
+### Daily Dev
+https://api.daily.dev/devcards/c67732aa9b354d8683413c74edb3aeee.png?r=z90
+
 ### Skills
 
 <p align="left">
