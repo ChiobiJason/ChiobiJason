@@ -14,7 +14,8 @@ I am a very big lover of tech I recently began my coding journey as a web develo
 * ⚡  I'm always happy to help with anything just contact me
 
 ### Daily Dev
-https://api.daily.dev/devcards/c67732aa9b354d8683413c74edb3aeee.png?r=z90
+
+<a href="https://app.daily.dev/chy_obs"><img src="https://api.daily.dev/devcards/c67732aa9b354d8683413c74edb3aeee.png?r=trf" width="400" alt="Chisom Chiobi's Dev Card"/></a>
 
 ### Skills
 
