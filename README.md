@@ -15,7 +15,7 @@ I am a very big lover of tech I recently began my coding journey as a web develo
 
 ### Daily Dev Card
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ChiobiJason/ChiobiJason/blob/master/devcard.svg" width="400" alt="ChiobiJason's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ChiobiJason/ChiobiJason/blob/main/devcard.svg" width="400" alt="ChiobiJason's Dev Card"/></a>
 
 ### Skills
 
