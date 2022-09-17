@@ -6,10 +6,10 @@ Front-End Developer
 
 I am a very big lover of technology. I recently began my coding journey as a web developer, specialising in front-end web development. I love building amazing websites and I am always open to any collaboration.
 
-* 🖥️  See my portfolio at [MyPortfolio](http://chiobijason.github.io/Personal-Site/)
+* 🖥️  See my old portfolio at [MyPortfolio](http://chiobijason.github.io/Personal-Site/)
 * ✉️  You can contact me at [chiobichisom@gmail.com](mailto:chiobichisom@gmail.com)
-* 🚀  I'm currently working on [MFM Ghana Teenage Website](http://chiobijason.github.io/Mfm-Gh-Teens/)
-* 🧠  I'm learning React🥶
+* 🚀  I'm currently working on a new portfolio
+* 🧠  I'm learning Python🐍
 * 🤝  I'm open to collaborating on Interesting Projects with you
 * ⚡  I'm always happy to help with anything just contact me
 
