@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Developer
 -------------------
 
-I am a very big lover of tech I recently began my coding journey as a web developer specializing in Front-End Web Development, I love building amazing websites and I am always open to any collaboration.
+I am a very big lover of technology. I recently began my coding journey as a web developer, specialising in front-end web development. I love building amazing websites and I am always open to any collaboration.
 
 * 🖥️  See my portfolio at [MyPortfolio](http://chiobijason.github.io/Personal-Site/)
 * ✉️  You can contact me at [chiobichisom@gmail.com](mailto:chiobichisom@gmail.com)
