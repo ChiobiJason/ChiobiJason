@@ -13,9 +13,11 @@ I am a very big lover of technology. I recently began my coding journey as a web
 * 🤝  I'm open to collaborating on Interesting Projects with you
 * ⚡  I'm always happy to help with anything just contact me
 
+<!--
 ### Daily Dev Card
 
 <a href="https://app.daily.dev/jasonthe_dev"><img src="https://github.com/ChiobiJason/ChiobiJason/blob/main/devcard.svg" width="400" alt="ChiobiJason's Dev Card"/></a>
+-->
 
 ### Skills
 
