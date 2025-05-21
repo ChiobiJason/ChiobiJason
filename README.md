@@ -9,7 +9,7 @@ I am a very big lover of technology. I recently began my coding journey as a web
 * 🖥️  See my old portfolio at [MyPortfolio](http://chiobijason.github.io/Personal-Site/)
 * ✉️  You can contact me at [chiobichisom@gmail.com](mailto:chiobichisom@gmail.com)
 * 🚀  I'm currently working on a new portfolio website
-* 🧠  I'm learning Java💻
+* 🧠  I'm learning R 📊
 * 🤝  I'm open to collaborating on Interesting Projects with you
 * ⚡  I'm always happy to help with anything just contact me
 
