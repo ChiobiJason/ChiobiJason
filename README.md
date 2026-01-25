@@ -1,7 +1,7 @@
 Hi 👋 My name is Chisom Chiobi
 ==============================
 
-Front-End Developer
+Software Engineer
 -------------------
 
 I am a very big lover of technology. I recently began my coding journey as a web developer, specialising in front-end web development. I love building amazing websites and I am always open to any collaboration.
